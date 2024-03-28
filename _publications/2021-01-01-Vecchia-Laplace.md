@@ -1,9 +1,9 @@
 ---
 title: "Vecchia--Laplace approximations of generalized Gaussian processes for big non-Gaussian spatial data"
 collection: publications
-permalink: /publication/2021-Vecchia-Laplace
+permalink: /publication/2021-01-01-Vecchia-Laplace
 excerpt: 'This paper is about performing inference on large, non-Gaussian spatial fields.'
-date: 2021
+date: 2021-01-01
 venue: 'Computational Statistics \& Data Analysis'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0167947320301729'
 citation: 'Zilber, Daniel, and Matthias Katzfuss. "Vecchia–Laplace approximations of generalized Gaussian processes for big non-Gaussian spatial data." Computational Statistics & Data Analysis 153 (2021): 107081.'
