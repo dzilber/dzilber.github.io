@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Texas A&M University, 2021
+* M.S. in Management Science and Engineering, Stanford University, 2012
+* B.S. in Mathematics, University of North Carolina at Chapel Hill, 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012-2016: Operations Research Analyst
+  * Reddwerks
+  * Duties included: developing warehouse control algorithms in Java
+  * Supervisor: Arturo Hinojosa
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bayesian hierarchical modeling
+  * Implementation of MCMC (manual, STAN, nimble)
+  * Large spatial data: Vecchia approximations with Gaussian Processes
+  * Variational Methods
+* Frequentist statistic analysis
+  * Penalized optimization with gradient or proximal methods
+  * Constrained convex optimization
+* So many other skills
 
 Publications
 ======
@@ -61,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mentoring summer interns
