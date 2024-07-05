@@ -102,17 +102,17 @@ skills:
   - name: Technical Skills
     items:
      - name: R
-        description: ''
-        percent: 90
-        icon: code-bracket
-      - name: Python
-        description: ''
-        percent: 75
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
+       description: ''
+       percent: 90
+       icon: code-bracket
+     - name: Python
+       description: ''
+       percent: 75
+       icon: code-bracket
+     - name: Data Science
+       description: ''
+       percent: 100
+       icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
