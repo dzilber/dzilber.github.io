@@ -58,7 +58,7 @@ education:
   - area: MS Management Science and Engineering, focus in Operations Research
     institution: Stanford University
     date_start: 2010-08-01
-    date_end: 2012-04-31
+    date_end: 2012-05-01
     summary: |
       GPA: 3.8/4.0
 
