@@ -150,7 +150,7 @@ awards:
     icon: coursera
     summary: |
       I studied and learned.
- ---
+---
 
 ## About Me
 
