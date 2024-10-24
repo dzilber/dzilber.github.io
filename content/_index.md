@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-  I focus on statistical and mathematical modeling to understand how we are affected by the chemicals around us.  The statistical side involves fitting models to data, where we strive to have a relatively simple and interpretable model that can explain or discover structure in the data.  The mathematics come in when we want to incorporate our prior knowledge into the statistical model.  For example, we may expect the data to obey a differential equation, be monotonic, or satisify additivity conditions, and we need to introduce these constraints to the statistical model.  Although I have experience with both frequentist and Bayesian methods, I prefer Bayesian approaches.  
+        I focus on statistical and mathematical modeling to understand how we are affected by the chemicals around us.  The statistical side involves fitting models to data, where we strive to have a relatively simple and interpretable model that can explain or discover structure in the data.  The mathematics come in when we want to incorporate our prior knowledge into the statistical model.  For example, we may expect the data to obey a differential equation, be monotonic, or satisify additivity conditions, and we need to introduce these constraints to the statistical model.  Although I have experience with both frequentist and Bayesian methods, I prefer Bayesian approaches.  
         
         Please reach out with questions or if you'd like to collaborate 😃
     
