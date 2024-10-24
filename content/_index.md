@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+  I focus on statistical and mathematical modeling to understand how we are affected by the chemicals around us.  The statistical side involves fitting models to data, where we strive to have a relatively simple and interpretable model that can explain or discover structure in the data.  The mathematics come in when we want to incorporate our prior knowledge into the statistical model.  For example, we may expect the data to obey a differential equation, be monotonic, or satisify additivity conditions, and we need to introduce these constraints to the statistical model.  Although I have experience with both frequentist and Bayesian methods, I prefer Bayesian approaches.  
         
-        Please reach out to collaborate 😃
+        Please reach out with questions or if you'd like to collaborate 😃
+    
     design:
       columns: '1'
   - block: collection
