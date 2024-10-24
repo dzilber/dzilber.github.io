@@ -154,4 +154,4 @@ awards:
 
 ## About Me
 
-Daniel Zilber is a staff scientist in the Biostatistics and Computational Biology division of the National Institute of Environmental Health Sciences. He is currently interested in creating statistical methodology that bridges epidemiology and toxicology with the goal of modeling and predicting biological responses to mixtures of chemicals.  He supports the Applied Statistics group led by Shanshan Zhao, which develops statistical methodology to understand how the enviroment affects health.
+I am a staff scientist in the Biostatistics and Computational Biology division of the National Institute of Environmental Health Sciences. I create statistical methodology that bridges epidemiology and toxicology with the goal of modeling and predicting biological responses to mixtures of chemicals.  I support the Applied Statistics group led by Shanshan Zhao, which develops statistical methodology to understand how the enviroment affects health.
